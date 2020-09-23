@@ -8,12 +8,30 @@
 
 ### Connect with me:
 
+<a title="Portfolio" href="https://vinayaksavle.github.io/">
+    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="50" height="50" />
+</a>
+<a title="Instagram" href="https://www.instagram.com/vinayak_savle/">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="50" height="50" />
+</a>
+<a title="Email" href="mailto:vinayaksavle@gmail.com">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
+</a>
+<a title="Stackoverflow" href="https://stackoverflow.com/users/10132065/vinayak-savale">
+    <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
+</a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/vinayak-savale-360a5280/">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
+</a>
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+
 
 ### Languages and Tools:
 
