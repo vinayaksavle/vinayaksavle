@@ -29,6 +29,8 @@
 
 <br />
 <br />
+<img src="https://github-readme-stats.vercel.app/api?username=vinayaksavle&count_private=true&show_icons=true" height="170px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaksavle&layout=compact" height="170px">
 
 [website]: https://www.linkedin.com/in/vinayak-savale-360a5280/
 [youtube]: https://www.youtube.com/user/12vvs/videos?view_as=subscriber
