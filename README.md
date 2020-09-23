@@ -1,4 +1,4 @@
-### Hi there, I'm Vinayak 👋<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h2> Hi there, I'm Vinayak <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ## I'm a Software Developer
 - 🔭 I’m currently working on a Dot Net with Angular Tech stack!
