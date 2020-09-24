@@ -1,4 +1,5 @@
-<h2> Hi there, I'm Vinayak <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+Happy to see you here. Let me walk through what I keep on doing.
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=vinayaksavle alt=vinayaksavle /> </p>
 
