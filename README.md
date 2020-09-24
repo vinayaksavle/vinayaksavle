@@ -1,7 +1,6 @@
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=vinayaksavle alt=vinayaksavle /> </p><br/>
 <h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 Happy to see you here. Let me walk through what I keep on doing.
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=vinayaksavle alt=vinayaksavle /> </p>
 
 ### Who am I? 🤨
 - Ciao! I am Vinayak Savle a developer, student and a keen learner ready to help this community grow. Ever tried a Google search 🤔, try to google me [here](https://www.google.com/search?q=vinayaksavle) and you may find some interesting activities I keep on doing.  
