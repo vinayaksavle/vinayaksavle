@@ -1,6 +1,8 @@
 <h2> Hi there, I'm Vinayak <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-## I'm a Software Developer
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=vinayaksavle alt=vinayaksavle /> </p>
+
+## I'm a Full Stack Developer
 - 🔭 I’m currently working on a Dot Net with Angular Tech stack!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects and upgrade myself with new better version
