@@ -31,7 +31,7 @@ Happy to see you here. Let me walk through what I keep on doing.
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,8 +45,3 @@ Happy to see you here. Let me walk through what I keep on doing.
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=vinayaksavle&count_private=true&show_icons=true" height="170px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaksavle&layout=compact" height="170px">
-
-[website]: https://www.linkedin.com/in/vinayak-savale-360a5280/
-[youtube]: https://www.youtube.com/user/12vvs/videos?view_as=subscriber
-[instagram]: https://www.instagram.com/vinayak_savle/
-[linkedin]: https://www.linkedin.com/in/vinayak-savale-360a5280/
