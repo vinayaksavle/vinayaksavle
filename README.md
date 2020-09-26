@@ -3,7 +3,7 @@
 Happy to see you here. Let me walk through what I keep on doing.
 
 ### Who am I? 🤨
-- Ciao! I am Vinayak Savle a developer, student and a keen learner ready to help this community grow. Ever tried a Google search 🤔, try to google me [here](https://www.google.com/search?q=vinayaksavle) and you may find some interesting activities I keep on doing.  
+- Ciao! I am Vinayak Savle a developer, a keen learner and one who likes to solve problems. Ever tried a Google search 🤔, try to google me [here](https://www.google.com/search?q=vinayaksavle) and you may find some interesting activities I keep on doing.  
 - 🔭 I’m currently working on a Dot Net with Angular Tech stack!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects and upgrade myself with new better version
