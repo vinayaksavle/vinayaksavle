@@ -23,7 +23,7 @@ Happy to see you here. Let me walk through what I keep on doing.
 <a title="Stackoverflow" href="https://stackoverflow.com/users/10132065/vinayak-savale">
     <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
 </a>
-<a title="LinkedIn" href="https://www.linkedin.com/in/vinayak-savale-360a5280/">
+<a title="LinkedIn" href="https://www.linkedin.com/in/vinayak-savle-360a5280/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
 </a>
 
