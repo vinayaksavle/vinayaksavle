@@ -7,7 +7,7 @@ Happy to see you here. Let me walk through what I keep on doing.
 - 🔭 I’m currently working on a Dot Net with Angular Tech stack!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects and upgrade myself with new better version
-- ⚡ Fun fact: I love to play mobile games and read quora
+- ⚡ Fun fact: I love to play mobile games and read quora.
 
 ### Connect with me:
 
