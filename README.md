@@ -10,7 +10,7 @@ Happy to see you here. Let me walk through what I keep on doing.
 - ⚡ Fun fact: I love to play mobile games and read quora.
 
 ### 📝 Latest Blog Posts
--[Trust Issues with setTimeout()! 💔 setTimeout Interview Question](https://dev.to/vinayaksavle/trust-issues-with-settimeout-settimeout-interview-question-32ba)
+- [Trust Issues with setTimeout()! 💔 setTimeout Interview Question](https://dev.to/vinayaksavle/trust-issues-with-settimeout-settimeout-interview-question-32ba)
 
 ### Connect with me:
 
