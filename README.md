@@ -6,7 +6,7 @@ Happy to see you here. Let me walk through what I keep on doing.
 - Ciao! I am Vinayak Savle a developer, a keen learner and one who likes to solve problems. Ever tried a Google search 🤔, try to google me [here](https://www.google.com/search?q=vinayaksavle) and you may find some interesting activities I keep on doing.  
 - 🔭 I’m currently working on a Dot Net with Angular Tech stack!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects and upgrade myself with new better version
+- 🥅 2023 Goals: Contribute more to Open Source projects and upgrade myself with new better version
 - ⚡ Fun fact: I love to play mobile games and read quora.
 
 ### 📝 Latest Blog Posts
@@ -19,9 +19,6 @@ Happy to see you here. Let me walk through what I keep on doing.
 </a>
 <a title="Instagram" href="https://www.instagram.com/vinayak_savle/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="50" height="50" />
-</a>
-<a title="Email" href="mailto:vinayaksavle@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
 </a>
 <a title="Stackoverflow" href="https://stackoverflow.com/users/10132065/vinayak-savale">
     <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
